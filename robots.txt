@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mathquantum.github.io/sitemap.xml
+Sitemap: https://mathquantum.github.io/mqs26/sitemap.xml
